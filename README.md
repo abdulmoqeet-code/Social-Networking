@@ -57,7 +57,4 @@ While the original research focused on grouping privileges by time and geographi
 
 If referencing this project, please cite the original *Empire of Networks* study as the foundational work.
 
----
-
-##  Project Structure
 
